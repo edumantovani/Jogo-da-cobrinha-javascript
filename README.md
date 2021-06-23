@@ -1,6 +1,6 @@
 ## Jogo da cobrinha da Digital Innovation One
 
-![SnakeGame](snakeGame.PNG)
+![SnakeGame]
 Tutorial em:https://web.digitalinnovation.one/
 <h1 align="center">
   jogo da cobrinha da Digital innovation One
